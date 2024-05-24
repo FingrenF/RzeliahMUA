@@ -12,7 +12,24 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
+use App\Http\Controllers\Controller; // Perhatikan perubahan ini
 
 Route::get('/', function () {
     return view('home');
+});
+
+Route::get('/gallery', function () {
+    return view('gallery');
+});
+
+Route::get('/price', function () {
+    return view('price');
+});
+
+Route::get('/contact-us', function () {
+    return view('contact-us');
+});
+
+Route::get('/testimoni', function () {
+    return view('testimoni');
 });
