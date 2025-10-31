@@ -1,5 +1,7 @@
 # 💄 Rzeliah MUA – Company Profile Website
 
+![Home Page](screenshots/home.png)
+
 Website ini merupakan proyek berbasis **Laravel** yang dikembangkan sebagai media promosi untuk bisnis makeup artist bernama **Rzeliah MUA**.  
 Tujuan utama website ini adalah untuk menampilkan profil usaha, layanan makeup, galeri hasil karya, testimoni pelanggan, dan informasi kontak secara profesional dan mudah diakses oleh calon klien.
 
@@ -30,4 +32,3 @@ Dikembangkan oleh **Frendi Widsna**
 📍 Bandung, Indonesia  
 📧 [frendiwidsna16@gmail.com](mailto:frendiwidsna16@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/frendi-widsna-36b000267) | [GitHub](https://github.com/FingrenF)
-
